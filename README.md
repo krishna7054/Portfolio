@@ -12,7 +12,7 @@ Welcome to my portfolio site repository! This project showcases my skills and pr
 
 
 ## Demo
-Check out the live demo of the portfolio site [here](krishna-portfolio-007.netlify.app) 
+Check out the live demo of the portfolio site [here](https://krishna-portfolio-007.netlify.app) 
 
 ## Features
 - Responsive design
