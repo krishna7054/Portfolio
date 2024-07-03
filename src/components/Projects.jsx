@@ -9,7 +9,8 @@ const projects = [
     },
     {
       name: 'Nazar',
-      description: 'Developed a dynamic web application using Flask, a Python micro-framework, for building web applications.'
+      description: 'Developed a dynamic web application using Flask, a Python micro-framework, for building web applications.',
+        githubLink: 'https://github.com/krishna7054/Nazar',
     },
     {
       name: 'Movie Library App',
