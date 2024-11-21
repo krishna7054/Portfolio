@@ -5,7 +5,7 @@ const navigation = [
   { name: 'About', href: '#about', current: false },
   { name: 'Projects', href: '#projects', current: false },
   { name: 'Skills', href: '#skills', current: false },
-  { name: 'Resume', href: 'https://drive.google.com/file/d/1kXT4A9Ytz1DlF1MVDWEo02qPuYVosaWL/view?usp=drive_link', current: false },
+  { name: 'Resume', href: 'https://drive.google.com/file/d/1S-WUY25asIchTYFezeDqu44lz7ZGWTn6/view?usp=drive_link', current: false },
   { name: 'Contact', href: '#contact', current: false },
 ];
 
